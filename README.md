@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/BilalAwan1">
-    <img src="https://img.shields.io/github/followers/BilalAwan1?label=Followers&style=flat" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/BilalAwan1?label=Followers&style=for-the-badge" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/BilalAwan1?tab=repositories">
-    <img src="https://img.shields.io/github/stars/BilalAwan1?label=Stars&style=flat" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/BilalAwan1?label=Stars&style=for-the-badge" alt="GitHub Stars" />
   </a>
 </p>
 
@@ -128,11 +128,17 @@ A full-stack blog management application built to practice CRUD operations, REST
 # 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BilalAwan1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=BilalAwan1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+    alt="Bilal Awan's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAwan1&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAwan1&layout=compact&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -140,7 +146,10 @@ A full-stack blog management application built to practice CRUD operations, REST
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BilalAwan1&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=BilalAwan1&hide_border=true&area=true"
+    alt="Contribution Activity Graph"
+  />
 </p>
 
 ---
@@ -148,7 +157,10 @@ A full-stack blog management application built to practice CRUD operations, REST
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BilalAwan1&hide_border=true" alt="GitHub Contribution Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=BilalAwan1&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
@@ -156,15 +168,10 @@ A full-stack blog management application built to practice CRUD operations, REST
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BilalAwan1&theme=flat&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
----
-
-# 📅 Commit Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BilalAwan1&hide_border=true&custom_title=Bilal%20Awan%20-%20Commit%20Graph" alt="Commit Graph" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=BilalAwan1&theme=flat&no-frame=true&margin-w=10&margin-h=10"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -176,36 +183,24 @@ A full-stack blog management application built to practice CRUD operations, REST
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/Repositories-View%20on%20GitHub-181717?style=for-the-badge&logo=github" />
-
-<br/>
-
 <a href="https://github.com/BilalAwan1?tab=repositories">
-View Repositories →
+<img src="https://img.shields.io/badge/📦%20Repositories-View%20All-181717?style=for-the-badge" alt="Repositories"/>
 </a>
 
 </td>
 
 <td align="center">
-
-<img src="https://img.shields.io/badge/Stars-View%20on%20GitHub-181717?style=for-the-badge&logo=github" />
-
-<br/>
 
 <a href="https://github.com/BilalAwan1?tab=stars">
-View Stars →
+<img src="https://img.shields.io/badge/⭐%20Stars-View%20All-181717?style=for-the-badge" alt="Stars"/>
 </a>
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/Contributions-View%20Activity-181717?style=for-the-badge&logo=github" />
-
-<br/>
-
 <a href="https://github.com/BilalAwan1">
-View Activity →
+<img src="https://img.shields.io/badge/📊%20Contributions-View%20Activity-181717?style=for-the-badge" alt="Contributions"/>
 </a>
 
 </td>
