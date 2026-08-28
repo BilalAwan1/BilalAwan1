@@ -143,17 +143,6 @@ A full-stack blog management application built to practice CRUD operations, REST
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=BilalAwan1&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
 # 📦 GitHub Overview
 
 <table align="center">
@@ -187,6 +176,19 @@ A full-stack blog management application built to practice CRUD operations, REST
 </table>
 
 ---
+
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=BilalAwan1&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
 
 # 🤝 Connect With Me
 
