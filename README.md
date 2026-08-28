@@ -129,26 +129,24 @@ A full-stack blog management application built to practice CRUD operations, REST
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=BilalAwan1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+    src="./profile/stats.svg"
     alt="Bilal Awan's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAwan1&layout=compact&hide_border=true&langs_count=8"
+    src="./profile/top-langs.svg"
     alt="Top Languages"
   />
 </p>
-
----
 
 # 📈 Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=BilalAwan1&hide_border=true&area=true"
-    alt="Contribution Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=BilalAwan1"
+    alt="Bilal Awan's Contribution Activity Graph"
   />
 </p>
 
