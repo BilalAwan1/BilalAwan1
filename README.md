@@ -141,15 +141,6 @@ A full-stack blog management application built to practice CRUD operations, REST
   />
 </p>
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=BilalAwan1"
-    alt="Bilal Awan's Contribution Activity Graph"
-  />
-</p>
-
 ---
 
 # 🔥 Contribution Streak
@@ -158,17 +149,6 @@ A full-stack blog management application built to practice CRUD operations, REST
   <img
     src="https://streak-stats.demolab.com/?user=BilalAwan1&hide_border=true"
     alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=BilalAwan1&theme=flat&no-frame=true&margin-w=10&margin-h=10"
-    alt="GitHub Trophies"
   />
 </p>
 
